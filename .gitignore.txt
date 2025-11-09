@@ -1,0 +1,21 @@
+# Ignore reports and test output
+reports/
+test-output/
+screenshots/
+
+# Ignore Maven build folder
+target/
+
+# Ignore log files
+*.log
+
+# Ignore IDE settings and metadata
+.idea/
+*.iml
+*.classpath
+*.project
+.settings/
+
+# Ignore system-specific files
+.DS_Store
+Thumbs.db

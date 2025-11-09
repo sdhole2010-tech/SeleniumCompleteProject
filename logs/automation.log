@@ -1,0 +1,62 @@
+13:16:24 [main] INFO  test.LoginTest - Browser launched and navigated to: https://practicetestautomation.com/practice-test-login/
+13:16:24 [main] ERROR listeners.ListenerClass - ❌ Test Failed: loginTest
+13:43:03 [main] INFO  test.LoginTest - Browser launched and navigated to: https://practicetestautomation.com/practice-test-login/
+13:43:04 [main] ERROR listeners.ListenerClass - ❌ Test Failed: loginTest
+13:43:04 [main] ERROR listeners.ListenerClass - ❗ WebDriver is null, cannot capture screenshot
+13:47:26 [main] INFO  test.LoginTest - Browser launched and navigated to: https://practicetestautomation.com/practice-test-login/
+13:47:30 [main] INFO  listeners.ListenerClass - 🚀 Test Started: loginTest
+13:47:30 [main] INFO  test.LoginTest - Enter Username
+13:47:31 [main] INFO  test.LoginTest - Enter Password
+13:47:31 [main] INFO  test.LoginTest - Click on Submit Button
+13:47:31 [main] ERROR listeners.ListenerClass - ❌ Test Failed: loginTest
+13:47:31 [main] ERROR listeners.ListenerClass - ❗ WebDriver is null, cannot capture screenshot
+13:47:31 [main] INFO  listeners.ListenerClass - 🚀 Test Started: loginTest
+13:47:31 [main] INFO  test.LoginTest - Enter Username
+13:47:32 [main] INFO  test.LoginTest - Enter Password
+13:47:32 [main] INFO  test.LoginTest - Click on Submit Button
+13:47:32 [main] ERROR listeners.ListenerClass - ❌ Test Failed: loginTest
+13:47:32 [main] ERROR listeners.ListenerClass - ❗ WebDriver is null, cannot capture screenshot
+14:26:57 [main] INFO  test.LoginTest - Browser launched and navigated to: https://practicetestautomation.com/practice-test-login/
+14:26:59 [main] INFO  listeners.ListenerClass - 🚀 Test Started: loginTest
+14:26:59 [main] INFO  test.LoginTest - Enter Username
+14:27:00 [main] INFO  test.LoginTest - Enter Password
+14:27:00 [main] INFO  test.LoginTest - Click on Submit Button
+14:27:01 [main] ERROR listeners.ListenerClass - ❌ Test Failed: loginTest
+14:27:01 [main] INFO  listeners.ListenerClass - 📸 Screenshot saved at: C:\Users\Admin\eclipse-workspace\CompleteProject\screenshots\loginTest_20251109_142701.png
+14:27:01 [main] INFO  listeners.ListenerClass - 🚀 Test Started: loginTest
+14:27:01 [main] INFO  test.LoginTest - Enter Username
+14:27:01 [main] INFO  test.LoginTest - Enter Password
+14:27:01 [main] INFO  test.LoginTest - Click on Submit Button
+14:27:01 [main] ERROR listeners.ListenerClass - ❌ Test Failed: loginTest
+14:27:02 [main] ERROR listeners.ListenerClass - ❗ Failed to save screenshot: C:\Users\Admin\eclipse-workspace\CompleteProject\screenshots\loginTest_20251109_142701.png
+14:27:02 [main] INFO  test.LoginTest - Browser closed successfully.
+14:30:47 [main] INFO  test.LoginTest - Browser launched and navigated to: https://practicetestautomation.com/practice-test-login/
+14:30:50 [main] INFO  listeners.ListenerClass - 🚀 Test Started: loginTest
+14:30:50 [main] INFO  test.LoginTest - Enter Username
+14:30:50 [main] INFO  test.LoginTest - Enter Password
+14:30:50 [main] INFO  test.LoginTest - Click on Submit Button
+14:30:51 [main] ERROR listeners.ListenerClass - ❌ Test Failed: loginTest
+14:30:51 [main] INFO  listeners.ListenerClass - 📸 Screenshot saved at: C:\Users\Admin\eclipse-workspace\CompleteProject\screenshots\loginTest_20251109_143051_354.png
+14:30:51 [main] INFO  listeners.ListenerClass - 🚀 Test Started: loginTest
+14:30:51 [main] INFO  test.LoginTest - Enter Username
+14:30:51 [main] INFO  test.LoginTest - Enter Password
+14:30:52 [main] INFO  test.LoginTest - Click on Submit Button
+14:30:52 [main] ERROR listeners.ListenerClass - ❌ Test Failed: loginTest
+14:30:52 [main] INFO  listeners.ListenerClass - 📸 Screenshot saved at: C:\Users\Admin\eclipse-workspace\CompleteProject\screenshots\loginTest_20251109_143052_271.png
+14:30:53 [main] INFO  test.LoginTest - Browser closed successfully.
+15:20:48 [main] INFO  listeners.ListenerClass - 📄 Extent Report created at: C:\Users\Admin\eclipse-workspace\CompleteProject/reports/ExtentReport_20251109_152047.html
+15:20:56 [main] INFO  test.LoginTest - Browser launched and navigated to: https://practicetestautomation.com/practice-test-login/
+15:20:58 [main] INFO  listeners.ListenerClass - 🚀 Test Started: loginTest
+15:20:58 [main] INFO  test.LoginTest - Enter Username
+15:20:58 [main] INFO  test.LoginTest - Enter Password
+15:20:59 [main] INFO  test.LoginTest - Click on Submit Button
+15:20:59 [main] ERROR listeners.ListenerClass - ❌ Test Failed: loginTest
+15:20:59 [main] ERROR listeners.ListenerClass - ❗ WebDriver is null, cannot capture screenshot
+15:20:59 [main] INFO  listeners.ListenerClass - 🚀 Test Started: loginTest
+15:20:59 [main] INFO  test.LoginTest - Enter Username
+15:20:59 [main] INFO  test.LoginTest - Enter Password
+15:21:00 [main] INFO  test.LoginTest - Click on Submit Button
+15:21:00 [main] ERROR listeners.ListenerClass - ❌ Test Failed: loginTest
+15:21:00 [main] ERROR listeners.ListenerClass - ❗ WebDriver is null, cannot capture screenshot
+15:21:01 [main] INFO  test.LoginTest - Browser closed successfully.
+15:21:02 [main] INFO  listeners.ListenerClass - 📊 Extent Report generated successfully!
