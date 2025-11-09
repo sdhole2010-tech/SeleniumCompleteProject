@@ -2,12 +2,11 @@ pipeline {
     agent any
 
     tools {
-        maven 'Maven3'  // Name of Maven installation in Jenkins
-        jdk 'JDK17'     // Name of JDK installation in Jenkins
+        jdk 'JDK17'       // Your Jenkins JDK name
+        maven 'Maven3'    // Your Jenkins Maven name
     }
 
     stages {
-
         stage('Checkout') {
             steps {
                 git branch: 'main', url: 'https://github.com/sdhole2010-tech/SeleniumCompleteProject.git'
@@ -16,17 +15,16 @@ pipeline {
 
         stage('Build') {
             steps {
-                sh 'mvn clean compile'
+                bat 'mvn clean compile'
             }
         }
 
         stage('Test') {
             steps {
-                sh 'mvn test'
+                bat 'mvn test'
             }
             post {
                 always {
-                    // Publish JUnit test results
                     junit '**/target/surefire-reports/*.xml'
                 }
             }
@@ -34,7 +32,7 @@ pipeline {
 
         stage('Generate HTML Report') {
             steps {
-                sh 'mvn surefire-report:report'
+                bat 'mvn surefire-report:report'
                 publishHTML([
                     allowMissing: false,
                     alwaysLinkToLastBuild: true,
